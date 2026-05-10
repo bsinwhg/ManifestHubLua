@@ -2,6 +2,6 @@
 -- update time: 2026-02-11
 -- app_name: OverField
 
-addappid(3879660)
+addappid(3879660,0,"de157491004be628c5f613e6802640b5daffcdb1878245a94b63173bf560c6ce")
 
 addappid(3879661,0,"388df1ca80d7a91464483d4549f0f1fae55da17a7f971a0dc97b6525e5c92bd7")

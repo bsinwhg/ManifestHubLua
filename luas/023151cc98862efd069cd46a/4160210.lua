@@ -2,6 +2,6 @@
 -- update time: 2026-04-05
 -- app_name: The Artisan of Glimmith
 
-addappid(4160210)
+addappid(4160210,0,"8040eac89b271a8082b08d610062193a6042f338447cd4ad3127859ebcd48ced")
 
 addappid(4160211,0,"71ac392c49f1d69a9641226b81a353c6eb51604e03a0e45f96ac4fe8c88317ba")
