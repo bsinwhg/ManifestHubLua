@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <a href="[https://space.bilibili.com/20568856](https://space.bilibili.com/506976934" target="_blank">whgbsin</a>
+  <a href="https://space.bilibili.com/506976934" target="_blank">whgbsin</a>
 </p>
