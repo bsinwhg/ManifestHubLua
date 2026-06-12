@@ -1,19 +1,4 @@
 <p align="center">
-<pre align="center">
- ███████╗██╗  ██╗██╗██╗  ██╗██╗███████╗██╗██╗  ██╗██╗
- ██╔════╝██║  ██║██║██║ ██╔╝██║██╔════╝██║██║ ██╔╝██║
- ███████╗███████║██║█████╔╝ ██║█████╗  ██║█████╔╝ ██║
- ╚════██║██╔══██║██║██╔═██╗ ██║██╔══╝  ██║██╔═██╗ ██║
- ███████║██║  ██║██║██║  ██╗██║███████╗██║██║  ██╗██║
- ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝╚═╝  ╚═╝╚═╝
-</pre>
-</p>
-
-<p align="center">
-  <strong>⚖️ 乐园的最高裁判长 | 罪与罚的审判者 ⚖️</strong>
-</p>
-
-<p align="center">
   <a href="https://space.bilibili.com/20568856" target="_blank">
     <img src="https://img.shields.io/badge/Role-Judge-blue?style=flat-square" alt="Role">
   </a>
@@ -23,5 +8,5 @@
 </p>
 
 <p align="center">
-  <a href="https://space.bilibili.com/20568856" target="_blank">清汤大四季</a>
+  <a href="[https://space.bilibili.com/20568856](https://space.bilibili.com/506976934" target="_blank">whgbsin</a>
 </p>
